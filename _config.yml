@@ -1,9 +1,9 @@
-title: "jekyll-shell-theme"
-tagline: "A jekyll theme that looks like a shell/terminal"
-description: "This is a preview of jekyll-shell-theme."
-github_username: tareqdandachi
-baseurl: "/jekyll-shell-theme"
-url: "https://tareqdandachi.github.io"
+title: "Ben Jiles"
+tagline: "Pizza-induced thoughts of a cybersec professional and cypherpunk enthusiast"
+description: "Ben Jiles cybersec blog"
+github_username: ben-jiles
+baseurl: 
+url: "https://ben-jiles.github.io"
 
 plugins:
   - jemoji
